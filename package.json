@@ -1,0 +1,10 @@
+{
+    "name": "view-snapshot",
+    "version": "1.0.0",
+    "type": "module",
+    "license": "MIT",
+    "dependencies": {
+        "open": "^9.1.0",
+        "tmp": "^0.2.1"
+    }
+}
